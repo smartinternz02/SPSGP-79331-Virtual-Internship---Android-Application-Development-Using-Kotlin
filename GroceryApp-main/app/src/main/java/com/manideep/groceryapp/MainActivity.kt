@@ -1,4 +1,4 @@
-package com.divyanshu.groceryapp
+package com.manideep.groceryapp
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
